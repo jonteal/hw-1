@@ -5,4 +5,4 @@ The point of this week's homework assignment was to learn the concept of refacto
 ![REFACTORED SCREENSHOT](https://user-images.githubusercontent.com/87287862/130904435-aa3b4dc5-4110-47a3-acaa-0071a7c95b01.png)
 
 Repository Link: https://github.com/jonteal/hw-1
-Deployed Link: 
+Deployed Link: https://jonteal.github.io/hw-1/
