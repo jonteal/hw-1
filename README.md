@@ -1,10 +1,7 @@
 # <Homework-1-Refactoring>
-## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+## Description    
+The point of this week's homework assignment was to learn the concept of refactoring in order to reinforce the concepts we learned in our first week of class. The main concepts that were covered were the essentials of HTML as well as beginner-level CSS. This project was built in order to understand clean up the existing code in order to follow better standards and practices in code writing etiquette, including the use of proper semantics, structural ordering, proper functionality, consolidation, and descriptive commenting. The outcome resulted in a cleaner and more efficient code that functioned properly and was easy to read for others who might look at it later.
+    
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
