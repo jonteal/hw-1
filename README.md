@@ -1,4 +1,4 @@
-# <Homework-1-Refactoring>
+## <Homework-1-Refactoring>
 ## Description    
 The point of this week's homework assignment was to learn the concept of refactoring in order to reinforce the concepts we learned in our first week of class. The main concepts that were covered were the essentials of HTML as well as beginner-level CSS. 
   
